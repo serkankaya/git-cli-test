@@ -3,7 +3,7 @@
 
 ![fotoğraf gösterim ismi](https://github.com/serkankaya/git/blob/master/images/gitimage.jpg)
 
-#### (En Kalın yazı Fontu 1 adet # işareti ile , en ince yazı 6 adet  # işareti ile oluşturulabilir.)
+#### (En Kalın yazı Fontu 1 adet # işareti ile , en ince yazı 6 adet  # işareti ile başlatarak oluşturulabilir.)
 ## daha ince
 **bold yazı yazma** </br>
 *italik yazı yazma* </br>
