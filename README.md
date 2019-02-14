@@ -1,3 +1,4 @@
+
 # Basit README.md Kullanım örnekleri :
 
 ![fotoğraf gösterim ismi](https://github.com/serkankaya/git/blob/master/images/gitimage.jpg)
@@ -8,3 +9,5 @@
 *italik yazı yazma* </br>
 `arka planı belirgin yazı yazma` </br>
 [link verme](http://www.google.com) </br>
+
+####### Bu proje git CLI calişması için oluşturulmuştur.
