@@ -3,11 +3,11 @@
 
 ![fotoğraf gösterim ismi](https://github.com/serkankaya/git/blob/master/images/gitimage.jpg)
 
-#### (En Kalın yazı Fontu 1 adet # arasında en ince yazı 10 adet  # işareti arasında)
+#### (En Kalın yazı Fontu 1 adet # işareti ile , en ince yazı 6 adet  # işareti ile oluşturulabilir.)
 ## daha ince
-**kalın yazı yazma** </br>
+**bold yazı yazma** </br>
 *italik yazı yazma* </br>
 `arka planı belirgin yazı yazma` </br>
 [link verme](http://www.google.com) </br>
 
-####### Bu proje git CLI calişması için oluşturulmuştur.
+###### Bu proje git CLI calişması için oluşturulmuştur.
