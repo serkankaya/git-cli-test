@@ -10,4 +10,6 @@
 `arka planı belirgin yazı yazma` </br>
 [link verme](http://www.google.com) </br>
 
+[Git Dersleri](http://serkankaya.net/category/git/)
+
 ###### Bu proje git CLI calişması için oluşturulmuştur.
